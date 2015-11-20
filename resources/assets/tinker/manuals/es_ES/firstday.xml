@@ -1,0 +1,228 @@
+<?xml version="1.0"?>
+
+<book>
+<page type="intro">
+<text>Materiales y Tu
+Sobreviviendo el primer dia
+
+Volumen 1
+Por Skyla</text>
+</page>
+
+<page type="contents">
+<text>Tabla de contenidos</text>
+<link>
+ <text>El comienzo</text>
+ <icon>sapling</icon>
+ <jump>3</jump>
+</link>
+<link>
+ <text>Recetas</text>
+ <icon>workbench</icon>
+ <jump>5</jump>
+</link>
+<link>
+ <text>Modificadores de armadura</text>
+ <icon>travelvest</icon>
+ <jump>4</jump>
+</link>
+</page>
+
+<page type="text">
+<text>Bienvenidos a la priemera edicion de Materiales y Tu: Sobreviviendo el primer dia. Dentro de estas paginas encontrara los primeros pasos para fabricar las herramientas y materiales que necesitara para sobrevivir.
+
+Esta es una copia magica del libro, que se actualiza cuando se modifica el original</text>
+</page>
+
+<page type="text">
+<text>El primer paso es hacer una plantilla vacia donde estampar un diseño, como referencia para futuras creaciones. Las plantillas se modifican en una mesa de plantillas o se utilican como parte superior de mesas.
+
+Puedes darle forma al material en el Constructor de Partes con las plantillas, para luego combinar las partes en el Puesto de Herramientas. Las plantillas se pueden guardar en un cofre especial.
+
+Juntas estas cosas forman el taller de herramientas. Se recomienda tenerlas todas juntas al momento de usar cualquiera de ellas</text>
+</page>
+
+<page type="crafting">
+<text>Plantilla vacia</text>
+<recipe>
+ <name>blankpattern</name>
+ <size>two</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>Mesa de Plantillas</text>
+<recipe>
+ <name>stenciltable</name>
+ <size>two</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>Constructor de Partes</text>
+<recipe>
+ <name>partcrafter</name>
+ <size>two</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>Cofre de Plantillas</text>
+<recipe>
+ <name>patternchest</name>
+ <size>two</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>Puesto de Herramientas</text>
+<recipe>
+ <name>toolstation</name>
+ <size>two</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>Forja de Herramientas</text>
+<recipe>
+ <name>toolforge</name>
+ <size>three</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>Tendedero</text>
+<recipe>
+ <name>dryingrack</name>
+ <size>three</size>
+</recipe>
+</page>
+
+<page type="text">
+<text>Arbustos metalicos
+
+A veces en el transcurso de sus viajes se encontrara con arbustos metalicos. Crecen bajo tierra en areas oscuras, y necesitan oscuridad casi completa para producir. 
+
+Las bayas pueden fundirse para hacer pepitas y lingotes, por lo que son una fuente interesante de recursos
+</page>
+
+<page type="picture">
+<text>Arbustos metalicos en su hambiente natural</text>
+<location>tinker:manuals/oreberries.png</location>
+</page>
+
+<page type="text">
+<text>Canales de Slime 
+
+Los canales de slime son utiles para mover items. </text>
+</page>
+
+<page type="crafting">
+<text>Canal de Slime</text>
+<recipe>
+ <name>slimechannel</name>
+ <size>two</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>Almohadilla Reboton</text>
+<recipe>
+ <name>bouncepad</name>
+ <size>two</size>
+</recipe>
+</page>
+
+<page type="text">
+<text>Unas trampas y bloques que ayudaran al supervivente novato</text>
+</page>
+
+<page type="crafting">
+<text>Vara Punji </text>
+<recipe>
+ <name>punji</name>
+ <size>three</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>Barricada</text>
+<recipe>
+ <name>barricade</name>
+ <size>two</size>
+</recipe>
+</page>
+
+<page type="text">
+<text>Una vez que estes establecido, podras comenzar a procesar metales de forma mas eficiente. Lo concerniente a la fundicion va mas alla del ambito de este volumen, pero aqui hay unas recetas para comenzar.
+
+Nota: La fundicion es necesaria para procesar todos los metales, incluso hierro.</text>
+</page>
+
+<page type="crafting">
+<text>Lechada</text>
+<recipe>
+ <name>grout</name>
+ <size>two</size>
+</recipe>
+</page>
+
+<page type="furnace">
+<text>Ladrillo Quemado</text>
+<recipe>searedbrick</recipe>
+</page>
+
+<page type="crafting">
+<text>Ladrillos Quemados</text>
+<recipe>
+ <name>searedbricks</name>
+ <size>two</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>Control de Fundicion</text>
+<recipe>
+ <name>smelterycontroller</name>
+ <size>three</size>
+</recipe>
+</page>
+
+<page type="text">
+<text>Si por algun motivo pierdes este libro, Hacer otro es sencillo. Hay otros libros que se pueden hacer a partir de este.</text>
+</page>
+
+<page type="crafting">
+<text>Libro</text>
+<recipe>
+ <name>alternatebook</name>
+ <size>three</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>Materiales y Tu: v1</text>
+<recipe>
+ <name>patternbook1</name>
+ <size>two</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>Materiales y Tu: v2</text>
+<recipe>
+ <name>patternbook2</name>
+ <size>two</size>
+</recipe>
+</page>
+
+<page type="crafting">
+<text>Fundicion Poderosa</text>
+<recipe>
+ <name>patternbook3</name>
+ <size>two</size>
+</recipe>
+</page>
+
+
+</book>
